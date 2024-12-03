@@ -14,6 +14,13 @@ const questions = [
     options: ["Dreamer", "Realist", "Critic", "objectivist"],
     correct_option: 3,
     correct_explanation: "Dream is coming up with an impossible idea, realist is taking it down an achivable level, and critic is seeing flaws and preventing overscope. Where as objectivist is not part of this"
+  } ,
+  {
+    question_text: "What is the name of the mainfesto we studied?",
+    question_type: "multiple_choice",
+    options: ["Waterfall", "Agile", "Pair Programming", "School of Code"],
+    correct_option: 1,
+    correct_explanation: "Waterfall and agile are two workflow models, however we focused specifically on Agile as this is the preferred workflow to follow."
   }
 ]
 
